@@ -1,6 +1,6 @@
 ## Hi there 👋
 💫 About Me:
-👋 Hi, I'm Ram Raval<br>💻 Frontend Developer<br><br>🛠️ Skills<br>🌐 HTML • 🎨 CSS • ⚡ JavaScript<br>🖼️ Photoshop • ✏️ Illustrator<br><br>🎓 Education<br>📜 Diploma in Web Development & Web Design<br>📚 DWDD Course<br><br>🚀 I love building modern, responsive, and creative websites.
+👋 Hi, I'm Ram Raval<br>💻 Frontend Developer<br><br>🛠️ Skills<br>🌐 HTML • 🎨 CSS • ⚡ JavaScript<br>🖼️ Photoshop • ✏️ Illustrator<br><br>🎓 Education<br>📜 Diploma in Web Development & Web Design<br><br>🚀 I love building modern, responsive, and creative websites.
 
 
 ## 🌐 Socials:
